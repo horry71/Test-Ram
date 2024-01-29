@@ -22,7 +22,7 @@ while count <= 5:
         print(scaled_value)
         time.sleep(scaled_value)
     else:
-        print('empty')
+        print('еmpty')
         break
     count += 1
 
