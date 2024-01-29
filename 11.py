@@ -37,3 +37,4 @@ while count <= 5:  # count <= n
     title = info.find('a', {"class": "snippet-link"}).text
     print(title, ' ', price)
     count += 1
+#:)
